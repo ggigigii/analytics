@@ -1,3 +1,3 @@
 ---
-title: "speed-and-distance"
+title: "Speed-and-Distance"
 ---
