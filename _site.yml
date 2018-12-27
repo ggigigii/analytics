@@ -4,7 +4,5 @@ navbar:
   left:
     - text: "About Me"
       href: index.html
-    - text: "Past Projects"
-      href: speed-and-distance.html
     - text: Resume
       href: resume.html
